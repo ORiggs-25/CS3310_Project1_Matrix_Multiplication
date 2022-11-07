@@ -1,0 +1,35 @@
+Enter n:    4
+Enter the elements of matrix A: 
+Enter elements in row 1: 2 0 -1 6
+Enter elements in row 2: 3 7 8 0
+Enter elements in row 3: -5 1 6 -2
+Enter elements in row 4: 8 0 1 7
+
+Enter the elements of matrix B: 
+Enter elements in row 1: 0 1 6 3
+Enter elements in row 2: -2 8 7 1
+Enter elements in row 3: 2 0 -1 0
+Enter elements in row 4: 9 1 6 -2
+
+ Matrix C using Classical Multiplication:
+52 8 49 -6 
+2 59 59 16 
+-8 1 -41 -10 
+65 15 89 10 
+Runtime 0.0139445 seconds
+
+ Matrix C using Naive Divide and Conquer:
+52 8 49 -6 
+2 59 59 16 
+-8 1 -41 -10 
+65 15 89 10 
+Runtime 3.724E-4 seconds
+
+ Matrix C using Strassen_Matrix:
+52 8 49 -6 
+2 59 59 16 
+-8 1 -41 -10 
+65 15 89 10 
+Runtime 3.134E-4 seconds
+
+Process finished with exit code 0
