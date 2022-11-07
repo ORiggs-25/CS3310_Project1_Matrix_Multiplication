@@ -1,4 +1,10 @@
 import java.util.*;
+
+/**
+ * Take the two matrices as input to be multiplies
+ * Two matrices with size n x n is being passed in the parameter.
+ * The function returns matrix resultant Matrix C
+ */
 public class Classical_Matrix_Multiplication {
     public static int[][] matrixMultiply(int[][] matrixA, int[][] matrixB, int n) {
 
